@@ -40,7 +40,11 @@ Developed a robust Minimarket System using C# and Microsoft SQL Server database.
 - **C#:** Primary programming language for the application, chosen for its performance and ease of use.
 - **Microsoft SQL Server:** Database management system used for storing and managing all system data.
 - **Visual Studio Community 2022:** IDE used for development, providing powerful tools for coding, debugging, and UI design.
+  
 ![image](https://github.com/user-attachments/assets/7880c425-deac-4f0b-87f5-4c9b1181fe97)
+
+![image](https://github.com/user-attachments/assets/a3c23a53-e1c3-4df5-98a7-d75d1e16ec7a)
+
 ![image](https://github.com/user-attachments/assets/300897f9-ea5e-4dd2-bc81-a994eead7442)
 
 ![erd minimarket](https://github.com/user-attachments/assets/b1ab0b63-d766-4269-b666-809fe0411352)
